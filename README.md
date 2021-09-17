@@ -1,0 +1,3 @@
+## React Starter
+
+This is a project to help get a React app up and running using Webpack, Typescript, Sass, Eslint, etc...
